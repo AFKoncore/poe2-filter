@@ -2,7 +2,7 @@
 # Core's blind attempt at a Loot Filter - for Path of Exile 2
 #===============================================================================================================
 # While waiting for https://www.filterblade.xyz/?game=Poe2 here is some respite from the greyscale of not having any filter. 
-# some content stolen from Neversink
+# half of it is stolen from Neversink's PoE1
 #
 # Doesn't hide anything, except gold below 5 and wisdom scroll past lvl25 (buy them from vendor for 25 gold)
 # IGN: @Core ; Discord: afkoncore ; Reach out to me if you want to help or got your own lootfilter going on!
